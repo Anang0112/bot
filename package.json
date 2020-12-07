@@ -1,20 +1,20 @@
 {
-  "name": "whatsapp-bot",
-  "version": "2.1.0",
-  "description": "Whatsapp Bot - Node Js",
+  "name": "Gabut-Bot",
+  "version": "0.1",
+  "description": "Whatsapp Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "ArugaZ",
+  "author": "Dahlah",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArugaZ/whatsapp-bot.git"
+    "url": "https://github.com/Anang0112/bot.git"
   },
   "bugs": {
-    "url": "https://github.com/ArugaZ/whatsapp-bot/issues"
+    "url": "https://github.com/Anang0112/bot/issues"
   },
-  "homepage": "https://github.com/ArugaZ/whatsapp-bot",
+  "homepage": "https://github.com/Anang0112/bot",
   "license": "ISC",
   "dependencies": {
     "@open-wa/wa-automate": "^3.1.0",
